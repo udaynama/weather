@@ -1,0 +1,9 @@
+.sidebar-container{
+    height: 753px;
+}
+.sidebar-sub{
+    display: flex;
+    /* justify-content: space-around; */
+    column-gap: 10px;
+    padding: 10px 0px 0px 10px;
+}

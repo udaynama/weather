@@ -1,0 +1,20 @@
+.js-main-container{
+    width: 80%;
+    padding-left: 20%;
+    position: fixed;
+    top: 23px;
+}
+.area-of-triangle{
+    display: flex;
+    flex-direction: column;
+    width: 30%;
+    row-gap: 7px;
+}
+.calculate-area{
+    color: white;
+    background-color: purple;
+    border: none;
+    height: 29px;
+    margin-top: 15px;
+    cursor: pointer;
+}
